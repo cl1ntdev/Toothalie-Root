@@ -10,6 +10,7 @@
 /14. approve pane of the dentist and setting of remidners for approved appointments
 15. Searchbar (optional)
 16. Feeds on both doctor and patient
+17. One Panel per user
 
 > MIGRATION PROCES
  - make entiry 
